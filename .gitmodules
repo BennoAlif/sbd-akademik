@@ -1,0 +1,6 @@
+[submodule "backend-akademik"]
+	path = backend-akademik
+	url = https://github.com/BennoAlif/backend-akademik
+[submodule "frontend-akademik"]
+	path = frontend-akademik
+	url = https://github.com/BennoAlif/frontend-akademik

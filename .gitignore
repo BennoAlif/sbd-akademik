@@ -1,0 +1,24 @@
+frontend-akademik/.DS_Store
+backend-akademik/node_modules
+frontend-akademik/node_modules
+frontend-akademik/dist
+
+
+# local env files
+frontend-akademik/.env.local
+frontend-akademik/.env.*.local
+
+# Log files
+frontend-akademik/npm-debug.log*
+frontend-akademik/yarn-debug.log*
+frontend-akademik/yarn-error.log*
+frontend-akademik/pnpm-debug.log*
+
+# Editor directories and files
+frontend-akademik/.idea
+frontend-akademik/.vscode
+frontend-akademik/*.suo
+frontend-akademik/*.ntvs*
+frontend-akademik/*.njsproj
+frontend-akademik/*.sln
+frontend-akademik/*.sw?
